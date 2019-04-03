@@ -32,11 +32,11 @@ You must replace the access key variables with your own personal ones.
  - Songs will be downloaded in the bucket, in a folder with the name of your playlist.
   
 
-- *Type "back" to go back anytime.*
+*Type "back" to go back anytime.*
 
-- *You can play a song in terminal to see if it's the correct one by typing "play" + your number choice. For example, "play 1" will play the first option given to you.*
+*You can play a song in terminal to see if it's the correct one by typing "play" + your number choice. For example, "play 1" will play the first option given to you.*
 
-- *Type "stop" to stop the song.*
+*Type "stop" to stop the song.*
 
 
 
