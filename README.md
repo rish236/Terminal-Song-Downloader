@@ -28,7 +28,7 @@ Download Song (quick) (option 3):
     You will not be able to pick and choose the top three results from youtube and soundloud, making it "quick"
 
 
-Download Playlist:
+Download Playlist (option 4):
   You will automatically be given a list of your spotify playlists. Choose which one you want to download by typing the number   value, and pressing enter.
   Songs will be downloaded in the bucket, in a folder with the name of your playlist.
   
