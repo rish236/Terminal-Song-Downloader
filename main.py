@@ -129,7 +129,7 @@ Soundcloud\n--------------------------------------\n4.) {slist[0]}\n5.) {slist[1
             block1()
 
        
-        x = num.split(" ")
+        x = num.split()
         if len(x) == 2:
             url = choice.get(x[1]).strip()
         else:
