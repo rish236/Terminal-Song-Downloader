@@ -11,13 +11,6 @@ You must replace the access key variables with your own personal ones.
 **FEATURES**:
 
 
-| Test | Test |
-| --- | --- |
-| a | e |
-| b | f|
-| c | g |
-| d | h |
-
 **Download Song** (option 1): 
   -Enter a song name + artist and press enter.
   -You will receive the top 3 choices from youtube, and soundcloud from which to choose from.
